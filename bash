@@ -12,3 +12,4 @@ git clone <repository_url>
 
 To run the inventory management system, execute the following command in the project directory:
 
+
